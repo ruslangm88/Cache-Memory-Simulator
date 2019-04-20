@@ -2,8 +2,11 @@
 SIMULADOR DE GERENCIAMENTO DE PÁGINAS DE MEMÓRIA CACHE
 
 Universidade Federal Fluminense (UFF)
+
 Instituto de Computação
+
 Disciplina: Sistemas de Computação
+
 Projeto de Organização de Computadores
 
 Autores:
@@ -11,4 +14,5 @@ Autores:
 * Ruslán Guerra Marzo (ruslan.guerra88@gmail.com)
 
 Apresentação do projeto:
+
 https://www.youtube.com/watch?v=ClQEbuZYMos
